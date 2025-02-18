@@ -1,7 +1,7 @@
 # Overview
 This project involves performing **Exploratory Data Analysis (EDA)** and **Feature Engineering** on a dataset related to the Google Play Store. With over 2.56 million apps available in the Google Play Store, this analysis aims to explore various aspects of these apps, such as the most popular categories, the apps with the largest number of installs, and other key features. By performing data cleaning and feature engineering, we can gain meaningful insights about the apps and understand trends within the data.
 
-🔍 Pythin code? Check them out here: [EDA Google Playstore](/EDA%20Google%20playstore/EDA%20&%20FE%20GooglePlaystore.ipynb)
+🔍 Python code? Check them out here: [EDA Google Playstore](/EDA%20Google%20playstore/EDA%20&%20FE%20GooglePlaystore.ipynb)
 
 ## Problem Statement
 With millions of apps available, the objective of this project is to:
